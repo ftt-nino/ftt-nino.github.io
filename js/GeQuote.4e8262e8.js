@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfigtreetechnologies_com"]=self["webpackChunkfigtreetechnologies_com"]||[]).push([[241],{9250:function(e,t,n){n.r(t),n.d(t,{default:function(){return m}});var o=n(3396);const c={class:"getQuote"};function s(e,t,n,s,u,r){const i=(0,o.up)("get-quote-cmpt");return(0,o.wg)(),(0,o.iD)("main",c,[(0,o.Wm)(i,{class:"py-2 py-md-4"})])}var u=n(8378),r={name:"getQuoteView",components:{GetQuoteCmpt:u.Z}},i=n(89);const a=(0,i.Z)(r,[["render",s]]);var m=a}}]);
+//# sourceMappingURL=GeQuote.4e8262e8.js.map
