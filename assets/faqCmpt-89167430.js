@@ -1,0 +1,1 @@
+import{_ as o,o as t,c,a as s,r as n}from"./index-4ded0d3b.js";const r={},a={class:"container-center flex flex-col gap-5"},l=s("h3",{class:"font-bold"},"Frequently ask questions.",-1),i={class:"grid grid-cols-1 lg:grid-cols-2 gap-x-16"};function _(e,d){return t(),c("section",null,[s("div",a,[l,s("div",i,[n(e.$slots,"questions")])])])}const p=o(r,[["render",_]]);export{p as F};
